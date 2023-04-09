@@ -1,1 +1,1 @@
-# apexplux_assignment
+First of all create a folder and their i was installed npm and all things what i need and basically This is a vehicle simulation application. The user is able to create, display, update, delete Scenario and Vehicle, a scenario can have multiple vehicles, and vehicles should be able move when user click a button based on the scenario and vehicles parameters.
