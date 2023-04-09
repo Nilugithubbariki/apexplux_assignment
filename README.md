@@ -8,6 +8,10 @@ based on the scenario and vehicles parameters.
 
 ## How to install and Run the project.
 
+## Live Link
+
+https://apexplux-assignment.vercel.app/home
+
 ### `npm install`
 
 to install all the dependencies for this app.
